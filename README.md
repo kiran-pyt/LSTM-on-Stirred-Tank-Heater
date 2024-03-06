@@ -1,6 +1,4 @@
-Sure, here's a README file for the provided code:
 
----
 
 # README: Multivariate LSTM Temperature Prediction
 
